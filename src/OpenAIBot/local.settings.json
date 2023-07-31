@@ -5,6 +5,7 @@
         "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
 
         "AI_EndPoint": "https://api.openai.com/v1/chat/completions",
-        
+        "AI_ApiKey": "sk-magik",
+        "AI_Model": "gpt-3.5-turbo"
     }
 }
